@@ -3,9 +3,6 @@
 
 ### Hi there, I'm Vinay Reddy [Portfolio][website] 👋
 
-[![Website](https://vinayreddy8579.wixsite.com/resume)]
-[![Twitter Follow](https://twitter.com/vinayreddy8579)
-
 ## I'm a Developer, Mentor and Social Worker!
 
 - 🔭 I’m currently working on a [Adani Project][website]!
