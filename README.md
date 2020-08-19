@@ -1,12 +1,9 @@
-
-
-
 ### Hi there, I'm Vinay Reddy [Portfolio][website] 👋
 
 ## I'm a Developer, Mentor and Social Worker!
 
 - 🔭 I’m currently working on a [Adani Project][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning new things
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore different domains without repetation
