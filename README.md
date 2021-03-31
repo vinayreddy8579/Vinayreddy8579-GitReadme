@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Mentor and Social Worker!
 
-- 🔭 I’m currently working on a [Adani Project][website]!
+- 🔭 Worked on [Adani Project][website] for Smart India Hackathon-2020!
 - 🌱 I’m currently learning Graphql
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
