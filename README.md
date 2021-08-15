@@ -5,7 +5,7 @@
 - 🔭 Worked on [Adani Project][website] for Smart India Hackathon-2020!
 - 🌱 I’m currently learning Graphql
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore different domains without repetation
 
 
